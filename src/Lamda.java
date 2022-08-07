@@ -7,7 +7,7 @@ public class Lamda {
         switcher.addConsumer(lamp);
         switcher.addConsumer(radio);
 
-        String m = "d";
+        String m = " hahaha";
         switcher.addConsumer( (h)-> {
 
                 System.out.println("Fire on!!!" + "Dima"+m);
